@@ -1,0 +1,13 @@
+city,time_grain,datetime,date,hour,weekday,is_weekend,season,bike_count,temp,rain,humidity,wind
+London,month,,2023-01-01,,,,winter,674329,,,,
+London,month,,2023-02-01,,,,winter,719506,,,,
+London,month,,2023-03-01,,,,spring,609698,,,,
+London,month,,2023-04-01,,,,spring,763666,,,,
+London,month,,2023-05-01,,,,spring,847248,,,,
+London,month,,2023-06-01,,,,summer,806172,,,,
+London,month,,2023-07-01,,,,summer,838385,,,,
+London,month,,2023-08-01,,,,summer,298330,,,,
+London,month,,2023-09-01,,,,fall,723684,,,,
+London,month,,2023-10-01,,,,fall,629617,,,,
+London,month,,2023-11-01,,,,fall,601403,,,,
+London,month,,2023-12-01,,,,winter,432518,,,,
