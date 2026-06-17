@@ -1,0 +1,13 @@
+city,time_grain,datetime,date,hour,weekday,is_weekend,season,bike_count,temp,rain,humidity,wind
+Seoul,month,,2025-01-01,,,,winter,1704336,,,,
+Seoul,month,,2025-02-01,,,,winter,1629540,,,,
+Seoul,month,,2025-03-01,,,,spring,2876951,,,,
+Seoul,month,,2025-04-01,,,,spring,3630800,,,,
+Seoul,month,,2025-05-01,,,,spring,3859388,,,,
+Seoul,month,,2025-06-01,,,,summer,4024315,,,,
+Seoul,month,,2025-07-01,,,,summer,3536203,,,,
+Seoul,month,,2025-08-01,,,,summer,3559263,,,,
+Seoul,month,,2025-09-01,,,,fall,3992326,,,,
+Seoul,month,,2025-10-01,,,,fall,3407811,,,,
+Seoul,month,,2025-11-01,,,,fall,3186985,,,,
+Seoul,month,,2025-12-01,,,,winter,1965174,,,,
