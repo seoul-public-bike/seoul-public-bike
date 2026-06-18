@@ -125,13 +125,17 @@
 
 ---
 
+## HuggingFace
+
+ https://huggingface.co/spaces/qkrdpdls603/seoul_public_bike
+
+---
+
 ## 기술 스택
 
 ```bash
 Python (Pandas, NumPy, Scikit-learn)
 LightGBM / LSTM / DNN
-Optuna (하이퍼파라미터 튜닝)```
+Optuna (하이퍼파라미터 튜닝)
 
 
-## HuggingFace
-https://huggingface.co/spaces/qkrdpdls603/seoul_public_bike
